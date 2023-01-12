@@ -3,7 +3,7 @@
 	color: white;
 	border-radius: 5px;
 }
-button#btn : hover{
+button#btn:hover{
 	background: yellow;
 	color: black;
 	border-radius: 30px;
